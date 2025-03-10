@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🚀 Welcome to My GitHub Profile!
 
-<!--
-**EstivalSolstice/EstivalSolstice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 My Projects
 
-Here are some ideas to get you started:
+### Personal Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project Name | Description                   | Link                          |
+|--------------|-------------------------------|-------------------------------|
+| Project A    | A short description here.     | [View Project](https://...)   |
+| Project B    | Another cool project.         | [View Project](https://...)   |
+
+### 42 Projects
+
+| Project Name | Description                           | Link                          |
+|--------------|---------------------------------------|-------------------------------|
+| Project 1    | Description of your 42 project here.  | [View Project](https://...)   |
+| Project 2    | Another project description.          | [View Project](https://...)   |
+
+🌐 **Check out my GitHub Pages site here:**  
+To be added
