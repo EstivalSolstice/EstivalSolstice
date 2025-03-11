@@ -11,9 +11,15 @@
 
 ### 42 Projects
 
-| Project Name | Description                           | Link                          |
+| Project Name | Milestone                           | Link                          |
 |--------------|---------------------------------------|-------------------------------|
-| Project 1    | Description of your 42 project here.  | [View Project](https://...)   |
+| libft    | Milestone 0  | [View Project](https://github.com/EstivalSolstice/libft)   |
+| Project 2    | Another project description.          | [View Project](https://...)   |
+| Project 2    | Another project description.          | [View Project](https://...)   |
+| Project 2    | Another project description.          | [View Project](https://...)   |
+| Project 2    | Another project description.          | [View Project](https://...)   |
+| Project 2    | Another project description.          | [View Project](https://...)   |
+| Project 2    | Another project description.          | [View Project](https://...)   |
 | Project 2    | Another project description.          | [View Project](https://...)   |
 
 🌐 **Check out my GitHub Pages site here:**  
