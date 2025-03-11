@@ -6,7 +6,7 @@
 
 | Project Name | Description                   | Link                          |
 |--------------|-------------------------------|-------------------------------|
-| TinyFile    | A short description here.     | [View Project][(https://github.com/EstivalSolstice/TinyFile)]   |
+| TinyFile    | A short description here.     | [View Project](https://github.com/EstivalSolstice/TinyFile)   |
 | Project B    | Another cool project.         | [View Project](https://...)   |
 
 ### 42 Projects
