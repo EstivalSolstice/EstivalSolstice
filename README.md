@@ -7,7 +7,7 @@
 | Project Name | Description                   | Link                          |
 |--------------|-------------------------------|-------------------------------|
 | TinyFile    | Versatile compression tool     | [View Project](https://github.com/EstivalSolstice/TinyFile)   |
-| Project B    | Another cool project.         | [View Project](https://...)   |
+| Project B    | Another cool project         | [View Project](https://...)   |
 
 ### 42 Projects
 
